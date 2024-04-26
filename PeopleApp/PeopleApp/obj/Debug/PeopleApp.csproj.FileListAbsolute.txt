@@ -1,0 +1,11 @@
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.csproj.AssemblyReference.cache
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.Form1.resources
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.Properties.Resources.resources
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.csproj.GenerateResource.cache
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\bin\Debug\PeopleApp.exe.config
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\bin\Debug\PeopleApp.exe
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\bin\Debug\PeopleApp.pdb
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.exe
+C:\Users\Gift\Documents\Extra Class\PeopleApp\PeopleApp\obj\Debug\PeopleApp.pdb
